@@ -6,8 +6,8 @@ favicon: images/flavicon_robo.svg # Directory of your favicon (eg. images/favico
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
+name: Eduardo Pontes Reis
+title: AI, Computer Vision, Healthcare, Neuroradiology
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
@@ -50,7 +50,7 @@ orcid_username: 0000-0001-5110-457X
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/edu_perfil.jpeg # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I am developing AI for better Healthcare and Radiology. In my research, I mostly apply computer vision to medical imaging, automating detection and measurements in radiology, and making health data widely accessible to scale experimentation with data science troughout the world (I do believe that thousands of data scientists (DS) troughout the world will be more creative than few DS inside a single organization). 
   With this in mind we made publicaly available a [Bounding-Box Annotations for Brain Hemorrhage](https://physionet.org/content/bhx-brain-bounding-box/1.1) and a [Brazilian Chest X Ray Dataset](https://physionet.org/content/bhx-brain-bounding-box/1.1).
