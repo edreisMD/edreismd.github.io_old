@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Eduardo Pontes Reis
+name: Ed Reis
 # title: Your job title
 email: edu.pontes@gmail.com
 # # email_title: Email (Email title override)
