@@ -1,6 +1,6 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: edreisMD/edreismd.github.io # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/flavicon_robo.svg # Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
