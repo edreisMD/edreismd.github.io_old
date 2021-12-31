@@ -52,13 +52,15 @@ orcid_username: 0000-0001-5110-457X
 # about_title: Eduardo Pontes Reis
 about_profile_image: images/edu_perfil.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a researcher developing AI for better Healthcare, using my background in medicine and neuroradiology to apply computer vision to improve medical imaging. In my research, I attempt to make health data widely accessible, in order to . With this in mind we published a Bounding Box Annotations for Brain Hemorrhage<a href="https://physionet.org/content/bhx-brain-bounding-box/1.1/>Links</a>
+  Despite mostly working in the domain of AI in Healthcare and Radiology, I'm enthusiastic about robotics and Embodied AI. I am intrinsicaly curious about the underlying mechanisms of human or human-like intelligence, I have some thoughts about the needed mechanisms of the "self", "time" and "environment"
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -110,7 +112,7 @@ content:
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
