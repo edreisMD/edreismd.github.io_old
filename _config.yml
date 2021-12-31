@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   Despite working mostly with AI in Healthcare, I'm a big enthusiast of Robotics and Embodied AI. 
   I suspect that some core elements are still missing in our understanding of human-like intelligence: the "self", "time" and "environment". 
   And I believe that tha current best shot on better understanding intelligence is Self-Supervised Learning (SSL). 
-  In order to understand better this approach applied to medical images I implemented a Contrastive Learning [paper](https://arxiv.org/pdf/2010.00747.pdf) in Pytorch - [ConVIRT](https://github.com/edreisMD/ConVIRT-pytorch).
+  In order to understand better this approach applied to medical images I implemented a Contrastive Learning paper [[1]](https://arxiv.org/pdf/2010.00747.pdf) in Pytorch - [ConVIRT](https://github.com/edreisMD/ConVIRT-pytorch).
 
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
