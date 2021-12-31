@@ -61,13 +61,14 @@ about_content: | # this will include new lines to allow paragraphs
   I suspect that some core elements are still missing in our understanding of human-like intelligence: the "self", "time" and "environment". 
   And I believe that tha current best shot on better understanding intelligence is Self-Supervised Learning (SSL). 
   In order to understand better this approach applied to medical images I implemented a Contrastive Learning [paper](https://arxiv.org/pdf/2010.00747.pdf) in Pytorch - [ConVIRT](https://github.com/edreisMD/ConVIRT-pytorch).
-# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#   - Lists
-#   - Tables
-#   - <a href="google.com">Links</a>
-#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  - Lists
+  - Tables
+  - <a href="google.com">Links</a>
+  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -111,7 +112,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: References
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
