@@ -54,7 +54,7 @@ about_profile_image: images/edu_perfil.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am a researcher attempting to develop AI for better Healthcare and Radiology. In my research, I mostly apply computer vision to medical imaging.  
   automating detection and measurements in radiology, and making health data widely accessible to scale experimentation with data science troughout the world (I do believe that thousands of data scientists (DS) troughout the world will be more creative than few DS inside a single organization). 
-  With this in mind we published a Bounding-Box Annotations for Brain Hemorrhage<a href="https://physionet.org/content/bhx-brain-bounding-box/1.1/>Links</a> and a Brazillian Chest X Ray Dataset <a href="https://physionet.org/content/bhx-brain-bounding-box/1.1/>Links</a>
+  With this in mind we published a [Bounding-Box Annotations for Brain Hemorrhage](https://physionet.org/content/bhx-brain-bounding-box/1.1) and a [Brazilian Chest X Ray Dataset](https://physionet.org/content/bhx-brain-bounding-box/1.1)
   
   Despite working mostly with AI in Healthcare and Radiology, I'm enthusiastic about robotics and Embodied AI. I am intrinsicaly curious about the underlying mechanisms of human or human-like intelligence. I suspect that three core elements of AGI are still missing in the current research: the "self", "time" and "environment". 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
