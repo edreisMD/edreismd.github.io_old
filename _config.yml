@@ -52,7 +52,7 @@ orcid_username: 0000-0001-5110-457X
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/edu_perfil.jpeg # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am developing AI for Healthcare and Radiology at Einstein Hospital (Brazil). In my research, I'm interested in applying computer vision to medical imaging, automating detection and measurements in radiology, deploying and evaluating algorithms in the clinical setting and making health data widely accessible, in order to scale data science for healthcare troughout the world (I do believe that thousands data science ideas from all around the world are better than few ideas from one organization). 
+  I am developing AI for Healthcare and Radiology at Einstein Hospital (Brazil). In my research, I'm interested in applying computer vision to medical imaging, automating detection and measurements in radiology, deploying and evaluating algorithms in the clinical setting, and making health data widely accessible in order to scale data science for healthcare troughout the world (I do believe that thousands data science ideas from all around the world are better than few ideas from one organization). 
   With this in mind, we made publicaly available a [Bounding-Box Annotations for Brain Hemorrhage](https://physionet.org/content/bhx-brain-bounding-box/1.1) and a [Brazilian Chest X Ray Dataset](https://physionet.org/content/bhx-brain-bounding-box/1.1).
   
   Despite working mostly with AI in Healthcare, I'm a big enthusiast of Robotics and Embodied AI. 
