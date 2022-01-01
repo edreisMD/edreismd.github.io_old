@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   And I believe that tha current best shot on better understanding intelligence is Self-Supervised Learning (SSL). 
   In order to learn more about SSL in healthcare I implemented a Contrastive Learning paper [[1]](https://arxiv.org/pdf/2010.00747.pdf) in [Pytorch - ConVIRT](https://github.com/edreisMD/ConVIRT-pytorch).
 
-  I look for collaboration in developing medical images datasets, evaluation and deployment of algorithms in radiology. And anything that led me to learn more about SSL in robotics / real world data.  
+  I seek to collaborate on developing medical images datasets, evaluation and deployment of algorithms in radiology. And anything that led me to learn more about SSL in robotics / real world data.  
   
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
