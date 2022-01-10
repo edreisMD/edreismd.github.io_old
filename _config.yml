@@ -50,14 +50,14 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/edu_perfil.jpeg # Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/ER.jpeg # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am developing AI for Healthcare and Radiology at Albert Einstein Hospital (Brazil). In my research, I'm interested in applying computer vision to medical imaging, automating detection and measurements in radiology, deploying and evaluating algorithms in the clinical setting, and making health data widely accessible in order to scale data science for healthcare troughout the world (I do believe that thousands data science ideas from all around the world are better than few ideas from one organization). 
-  With this in mind, we made publicaly available a [Bounding-Box Annotations for Brain Hemorrhage](https://physionet.org/content/bhx-brain-bounding-box/1.1) and a [Brazilian Chest X Ray Dataset](https://physionet.org/content/brax), a dataset that can be used as a benchmark from an under-represented geography.
+  I am developing AI for Healthcare and Radiology at Albert Einstein Hospital (Brazil). In my research, I'm interested in applying computer vision to medical imaging, automating detection and measurements in radiology, deploying and evaluating algorithms in the clinical setting, and making health data widely accessible in order to scale data science for healthcare throughout the world (I do believe that thousands data science ideas from all around the world are better than few ideas from one organization). 
+  With this in mind, we made publicly available a [Bounding-Box Annotations for Brain Hemorrhage](https://physionet.org/content/bhx-brain-bounding-box/1.1) and a [Brazilian Chest X Ray Dataset](https://physionet.org/content/brax), a dataset that can be used as a benchmark from an under-represented geography.
   
   Despite working mostly with AI in Healthcare, I'm a big enthusiast of Robotics and Embodied AI. 
   I suspect that some of the core elements for understanding human or human-like intelligence are still missing: the "self", "time" and "environment" (real world). 
-  And I believe that tha current best shot on better understanding intelligence is Self-Supervised Learning (SSL). 
+  And I believe that the current best shot on better understanding intelligence is Self-Supervised Learning (SSL). 
   In order to learn more about SSL in healthcare I implemented a Contrastive Learning paper [[1]](https://arxiv.org/pdf/2010.00747.pdf) in [Pytorch - ConVIRT](https://github.com/edreisMD/ConVIRT-pytorch).
 
   I seek to collaborate on developing medical images datasets, evaluation and deployment of algorithms in radiology. And anything that led me to learn more about SSL in robotics / real world data.  
