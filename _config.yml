@@ -36,7 +36,7 @@ youtube_username: doodsEdu
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fab fa-google # Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  icon: images/g.png #fab fa-google # Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: https://scholar.google.com.br/citations?user=NglVXZ8AAAAJ&hl=pt-BR&oi=ao # Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
