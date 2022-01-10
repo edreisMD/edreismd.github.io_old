@@ -1,6 +1,6 @@
 # Site
 repository: edreisMD/edreismd.github.io # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/flavicon_robo.svg # Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/ER.jpeg # images/flavicon_robo.svg # Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/ER.jpeg # Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/edu_perfil.jpeg # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I am developing AI for Healthcare and Radiology at Albert Einstein Hospital (Brazil). In my research, I'm interested in applying computer vision to medical imaging, automating detection and measurements in radiology, deploying and evaluating algorithms in the clinical setting, and making health data widely accessible in order to scale data science for healthcare throughout the world (I do believe that thousands data science ideas from all around the world are better than few ideas from one organization). 
   With this in mind, we made publicly available a [Bounding-Box Annotations for Brain Hemorrhage](https://physionet.org/content/bhx-brain-bounding-box/1.1) and a [Brazilian Chest X Ray Dataset](https://physionet.org/content/brax), a dataset that can be used as a benchmark from an under-represented geography.
